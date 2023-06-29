@@ -1,5 +1,4 @@
 # Physicochemical-Analysis-Sugarcane-Soils
-The DB contains information about physicochemical analysis of Vertisol Sugarcane soils. 
 
 The DB contains information about physicochemical analysis of Vertisol Sugarcane soils.  This information is useful to determine the soil agricultural aptitude.
 
